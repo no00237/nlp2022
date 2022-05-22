@@ -751,3 +751,613 @@ INFO:werkzeug:127.0.0.1 - - [22/May/2022 14:42:58] "POST /get_response HTTP/1.1"
 INFO:werkzeug:127.0.0.1 - - [22/May/2022 14:43:08] "POST /get_response HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [22/May/2022 14:43:26] "POST /get_response HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [22/May/2022 14:43:32] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-679-301
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 17:05:50] "POST /start_greeting HTTP/1.1" 200 -
+INFO:root:Making Prediction
+INFO:simpletransformers.ner.ner_model: Converting to features started.
+INFO:root:
+NER PREDICTION 
+User input: poop
+ Predicted Entities: {}
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 17:05:59] "POST /get_response HTTP/1.1" 200 -
+INFO:root:Making Prediction
+INFO:simpletransformers.ner.ner_model: Converting to features started.
+INFO:root:
+NER PREDICTION 
+User input: Popin
+ Predicted Entities: {}
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 17:06:09] "POST /get_response HTTP/1.1" 200 -
+INFO:root:Making Prediction
+INFO:simpletransformers.ner.ner_model: Converting to features started.
+INFO:root:
+NER PREDICTION 
+User input: May
+ Predicted Entities: {}
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 17:06:30] "POST /get_response HTTP/1.1" 200 -
+INFO:root:Making Prediction
+INFO:simpletransformers.ner.ner_model: Converting to features started.
+INFO:root:
+NER PREDICTION 
+User input: Keras
+ Predicted Entities: {'Keras': 'ORGANIZATION'}
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 17:06:43] "POST /get_response HTTP/1.1" 200 -
+INFO:root:Making Prediction
+INFO:simpletransformers.ner.ner_model: Converting to features started.
+INFO:root:
+NER PREDICTION 
+User input: Olafemihan
+ Predicted Entities: {'Olafemihan': 'ORGANIZATION'}
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 17:07:15] "POST /get_response HTTP/1.1" 200 -
+INFO:root:Making Prediction
+INFO:simpletransformers.ner.ner_model: Converting to features started.
+INFO:root:
+NER PREDICTION 
+User input: Hi my name May
+ Predicted Entities: {}
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 17:07:56] "POST /get_response HTTP/1.1" 200 -
+INFO:root:Making Prediction
+INFO:simpletransformers.ner.ner_model: Converting to features started.
+INFO:root:
+NER PREDICTION 
+User input: Hi my name Olafimihan
+ Predicted Entities: {'Olafimihan': 'PERSON'}
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 17:08:15] "POST /get_response HTTP/1.1" 200 -
+INFO:root:Making Prediction
+INFO:simpletransformers.ner.ner_model: Converting to features started.
+INFO:root:
+NER PREDICTION 
+User input: Hi my name Olafemihan
+ Predicted Entities: {'Olafemihan': 'PERSON'}
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 17:08:48] "POST /get_response HTTP/1.1" 200 -
+INFO:root:Making Prediction
+INFO:simpletransformers.ner.ner_model: Converting to features started.
+INFO:root:
+NER PREDICTION 
+User input: yes
+ Predicted Entities: {}
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 17:08:54] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 17:09:04] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\enum.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-679-301
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 17:09:54] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\activations.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\backend.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\backend_config.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\callbacks.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\callbacks_v1.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\constraints.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\losses.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\regularizers.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\activations\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\applications\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\applications\\densenet\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\applications\\efficientnet\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\applications\\efficientnet_v2\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\applications\\imagenet_utils\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\applications\\inception_resnet_v2\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\applications\\inception_v3\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\applications\\mobilenet\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\applications\\mobilenet_v2\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\applications\\mobilenet_v3\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\applications\\nasnet\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\applications\\regnet\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\applications\\resnet\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\applications\\resnet50\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\applications\\resnet_rs\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\applications\\resnet_v2\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\applications\\vgg16\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\applications\\vgg19\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\applications\\xception\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\backend\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\callbacks\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\callbacks\\experimental\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\constraints\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\datasets\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\datasets\\boston_housing\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\datasets\\cifar10\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\datasets\\cifar100\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\datasets\\fashion_mnist\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\datasets\\imdb\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\datasets\\mnist\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\datasets\\reuters\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\estimator\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\experimental\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\initializers\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\layers\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\layers\\experimental\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\layers\\experimental\\preprocessing\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\losses\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\metrics\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\mixed_precision\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\models\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\optimizers\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\optimizers\\legacy\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\optimizers\\schedules\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\premade\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\preprocessing\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\preprocessing\\image\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\preprocessing\\sequence\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\preprocessing\\text\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\regularizers\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\utils\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\wrappers\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\wrappers\\scikit_learn\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\__internal__\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\__internal__\\layers\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\__internal__\\legacy\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\__internal__\\legacy\\layers\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\__internal__\\legacy\\layers\\experimental\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\keras\\__internal__\\legacy\\rnn_cell\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\activations\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\applications\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\applications\\densenet\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\applications\\efficientnet\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\applications\\efficientnet_v2\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\applications\\imagenet_utils\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\applications\\inception_resnet_v2\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\applications\\inception_v3\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\applications\\mobilenet\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\applications\\mobilenet_v2\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\applications\\mobilenet_v3\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\applications\\nasnet\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\applications\\regnet\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\applications\\resnet\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\applications\\resnet50\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\applications\\resnet_rs\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\applications\\resnet_v2\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\applications\\vgg16\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\applications\\vgg19\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\applications\\xception\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\backend\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\callbacks\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\callbacks\\experimental\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\constraints\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\datasets\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\datasets\\boston_housing\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\datasets\\cifar10\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\datasets\\cifar100\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\datasets\\fashion_mnist\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\datasets\\imdb\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\datasets\\mnist\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\datasets\\reuters\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\estimator\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\experimental\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\initializers\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\layers\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\layers\\experimental\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\layers\\experimental\\preprocessing\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\losses\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\metrics\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\mixed_precision\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\models\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\optimizers\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\optimizers\\legacy\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\optimizers\\schedules\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\premade\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\preprocessing\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\preprocessing\\image\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\preprocessing\\sequence\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\preprocessing\\text\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\regularizers\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\utils\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\wrappers\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\wrappers\\scikit_learn\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\__internal__\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\__internal__\\layers\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\__internal__\\legacy\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\__internal__\\legacy\\layers\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\__internal__\\legacy\\layers\\experimental\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v1\\keras\\__internal__\\legacy\\rnn_cell\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\activations\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\applications\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\applications\\densenet\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\applications\\efficientnet\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\applications\\efficientnet_v2\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\applications\\imagenet_utils\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\applications\\inception_resnet_v2\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\applications\\inception_v3\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\applications\\mobilenet\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\applications\\mobilenet_v2\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\applications\\mobilenet_v3\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\applications\\nasnet\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\applications\\regnet\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\applications\\resnet\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\applications\\resnet50\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\applications\\resnet_rs\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\applications\\resnet_v2\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\applications\\vgg16\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\applications\\vgg19\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\applications\\xception\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\backend\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\backend\\experimental\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\callbacks\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\callbacks\\experimental\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\constraints\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\datasets\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\datasets\\boston_housing\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\datasets\\cifar10\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\datasets\\cifar100\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\datasets\\fashion_mnist\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\datasets\\imdb\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\datasets\\mnist\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\datasets\\reuters\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\dtensor\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\dtensor\\experimental\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\dtensor\\experimental\\optimizers\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\estimator\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\experimental\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\initializers\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\layers\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\layers\\experimental\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\layers\\experimental\\preprocessing\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\losses\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\metrics\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\mixed_precision\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\models\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\optimizers\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\optimizers\\experimental\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\optimizers\\legacy\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\optimizers\\schedules\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\premade\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\preprocessing\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\preprocessing\\image\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\preprocessing\\sequence\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\preprocessing\\text\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\regularizers\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\utils\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\utils\\experimental\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\wrappers\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\wrappers\\scikit_learn\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\__internal__\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\__internal__\\backend\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\__internal__\\layers\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\__internal__\\losses\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\__internal__\\models\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\api\\_v2\\keras\\__internal__\\utils\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\applications\\densenet.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\applications\\efficientnet.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\applications\\efficientnet_v2.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\applications\\imagenet_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\applications\\inception_resnet_v2.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\applications\\inception_v3.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\applications\\mobilenet.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\applications\\mobilenet_v2.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\applications\\mobilenet_v3.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\applications\\nasnet.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\applications\\regnet.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\applications\\resnet.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\applications\\resnet_rs.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\applications\\resnet_v2.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\applications\\vgg16.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\applications\\vgg19.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\applications\\xception.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\applications\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\datasets\\boston_housing.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\datasets\\cifar.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\datasets\\cifar10.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\datasets\\cifar100.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\datasets\\fashion_mnist.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\datasets\\imdb.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\datasets\\mnist.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\datasets\\reuters.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\datasets\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\distribute\\dataset_creator_model_fit_test_base.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\distribute\\distributed_file_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\distribute\\distributed_training_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\distribute\\distributed_training_utils_v1.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\distribute\\distribute_coordinator_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\distribute\\distribute_strategy_test.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\distribute\\keras_correctness_test_base.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\distribute\\keras_dnn_correctness_test.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\distribute\\keras_embedding_model_correctness_test.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\distribute\\keras_image_model_correctness_test.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\distribute\\keras_rnn_model_correctness_test.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\distribute\\keras_stateful_lstm_model_correctness_test.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\distribute\\keras_utils_test.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\distribute\\model_collection_base.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\distribute\\model_combinations.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\distribute\\multi_worker_testing_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\distribute\\optimizer_combinations.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\distribute\\saved_model_test_base.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\distribute\\sidecar_evaluator.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\distribute\\simple_models.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\distribute\\strategy_combinations.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\distribute\\test_example.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\distribute\\worker_training_state.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\distribute\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\dtensor\\integration_test_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\dtensor\\layout_map.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\dtensor\\lazy_variable.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\dtensor\\optimizers.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\dtensor\\test_util.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\dtensor\\utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\dtensor\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\engine\\base_layer.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\engine\\base_layer_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\engine\\base_layer_v1.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\engine\\base_preprocessing_layer.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\engine\\compile_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\engine\\data_adapter.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\engine\\functional.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\engine\\functional_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\engine\\input_layer.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\engine\\input_spec.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\engine\\keras_tensor.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\engine\\node.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\engine\\partial_batch_padding_handler.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\engine\\saving.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\engine\\sequential.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\engine\\training.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\engine\\training_arrays_v1.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\engine\\training_distributed_v1.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\engine\\training_eager_v1.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\engine\\training_generator_v1.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\engine\\training_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\engine\\training_utils_v1.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\engine\\training_v1.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\engine\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\estimator\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\feature_column\\base_feature_layer.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\feature_column\\dense_features.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\feature_column\\dense_features_v2.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\feature_column\\sequence_feature_column.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\feature_column\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\initializers\\initializers_v1.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\initializers\\initializers_v2.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\initializers\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\integration_test\\preprocessing_test_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\integration_test\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\einsum_dense.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\kernelized.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\noise.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\serialization.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\activation\\elu.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\activation\\leaky_relu.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\activation\\prelu.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\activation\\relu.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\activation\\softmax.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\activation\\thresholded_relu.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\activation\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\attention\\additive_attention.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\attention\\attention.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\attention\\base_dense_attention.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\attention\\multi_head_attention.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\attention\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\convolutional\\base_conv.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\convolutional\\base_depthwise_conv.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\convolutional\\base_separable_conv.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\convolutional\\conv1d.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\convolutional\\conv1d_transpose.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\convolutional\\conv2d.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\convolutional\\conv2d_transpose.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\convolutional\\conv3d.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\convolutional\\conv3d_transpose.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\convolutional\\depthwise_conv1d.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\convolutional\\depthwise_conv2d.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\convolutional\\separable_conv1d.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\convolutional\\separable_conv2d.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\convolutional\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\core\\activation.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\core\\dense.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\core\\embedding.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\core\\lambda_layer.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\core\\masking.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\core\\tf_op_layer.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\core\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\locally_connected\\locally_connected1d.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\locally_connected\\locally_connected2d.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\locally_connected\\locally_connected_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\locally_connected\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\merging\\add.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\merging\\average.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\merging\\base_merge.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\merging\\concatenate.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\merging\\dot.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\merging\\maximum.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\merging\\minimum.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\merging\\multiply.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\merging\\subtract.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\merging\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\normalization\\batch_normalization.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\normalization\\batch_normalization_v1.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\normalization\\layer_normalization.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\normalization\\unit_normalization.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\normalization\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\pooling\\average_pooling1d.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\pooling\\average_pooling2d.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\pooling\\average_pooling3d.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\pooling\\base_global_pooling1d.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\pooling\\base_global_pooling2d.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\pooling\\base_global_pooling3d.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\pooling\\base_pooling1d.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\pooling\\base_pooling2d.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\pooling\\base_pooling3d.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\pooling\\global_average_pooling1d.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\pooling\\global_average_pooling2d.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\pooling\\global_average_pooling3d.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\pooling\\global_max_pooling1d.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\pooling\\global_max_pooling2d.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\pooling\\global_max_pooling3d.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\pooling\\max_pooling1d.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\pooling\\max_pooling2d.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\pooling\\max_pooling3d.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\pooling\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\preprocessing\\category_encoding.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\preprocessing\\discretization.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\preprocessing\\hashed_crossing.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\preprocessing\\hashing.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\preprocessing\\image_preprocessing.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\preprocessing\\index_lookup.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\preprocessing\\integer_lookup.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\preprocessing\\normalization.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\preprocessing\\preprocessing_stage.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\preprocessing\\preprocessing_test_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\preprocessing\\preprocessing_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\preprocessing\\string_lookup.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\preprocessing\\text_vectorization.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\preprocessing\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\preprocessing\\benchmarks\\feature_column_benchmark.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\preprocessing\\benchmarks\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\regularization\\activity_regularization.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\regularization\\alpha_dropout.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\regularization\\dropout.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\regularization\\gaussian_dropout.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\regularization\\gaussian_noise.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\regularization\\spatial_dropout1d.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\regularization\\spatial_dropout2d.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\regularization\\spatial_dropout3d.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\regularization\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\reshaping\\cropping1d.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\reshaping\\cropping2d.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\reshaping\\cropping3d.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\reshaping\\flatten.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\reshaping\\permute.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\reshaping\\repeat_vector.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\reshaping\\reshape.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\reshaping\\up_sampling1d.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\reshaping\\up_sampling2d.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\reshaping\\up_sampling3d.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\reshaping\\zero_padding1d.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\reshaping\\zero_padding2d.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\reshaping\\zero_padding3d.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\reshaping\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\rnn\\abstract_rnn_cell.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\rnn\\base_conv_lstm.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\rnn\\base_conv_rnn.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\rnn\\base_cudnn_rnn.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\rnn\\base_rnn.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\rnn\\base_wrapper.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\rnn\\bidirectional.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\rnn\\cell_wrappers.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\rnn\\conv_lstm1d.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\rnn\\conv_lstm2d.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\rnn\\conv_lstm3d.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\rnn\\cudnn_gru.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\rnn\\cudnn_lstm.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\rnn\\dropout_rnn_cell_mixin.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\rnn\\gru.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\rnn\\gru_lstm_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\rnn\\gru_v1.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\rnn\\legacy_cells.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\rnn\\legacy_cell_wrappers.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\rnn\\lstm.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\rnn\\lstm_v1.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\rnn\\rnn_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\rnn\\simple_rnn.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\rnn\\stacked_rnn_cells.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\rnn\\time_distributed.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\layers\\rnn\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\legacy_tf_layers\\base.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\legacy_tf_layers\\convolutional.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\legacy_tf_layers\\core.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\legacy_tf_layers\\migration_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\legacy_tf_layers\\normalization.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\legacy_tf_layers\\pooling.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\legacy_tf_layers\\variable_scope_shim.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\legacy_tf_layers\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\metrics\\base_metric.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\metrics\\metrics.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\metrics\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\mixed_precision\\autocast_variable.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\mixed_precision\\device_compatibility_check.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\mixed_precision\\loss_scale_optimizer.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\mixed_precision\\policy.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\mixed_precision\\test_util.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\mixed_precision\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\models\\cloning.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\models\\sharpness_aware_minimization.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\models\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\optimizers\\legacy_learning_rate_decay.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\optimizers\\optimizer_v1.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\optimizers\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\optimizers\\legacy\\adadelta.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\optimizers\\legacy\\adagrad.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\optimizers\\legacy\\adam.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\optimizers\\legacy\\adamax.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\optimizers\\legacy\\ftrl.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\optimizers\\legacy\\nadam.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\optimizers\\legacy\\optimizer.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\optimizers\\legacy\\rmsprop.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\optimizers\\legacy\\sgd.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\optimizers\\legacy\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\optimizers\\optimizer_experimental\\adadelta.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\optimizers\\optimizer_experimental\\adagrad.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\optimizers\\optimizer_experimental\\adam.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\optimizers\\optimizer_experimental\\adamax.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\optimizers\\optimizer_experimental\\adamw.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\optimizers\\optimizer_experimental\\ftrl.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\optimizers\\optimizer_experimental\\nadam.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\optimizers\\optimizer_experimental\\optimizer.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\optimizers\\optimizer_experimental\\rmsprop.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\optimizers\\optimizer_experimental\\sgd.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\optimizers\\optimizer_experimental\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\optimizers\\optimizer_v2\\adadelta.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\optimizers\\optimizer_v2\\adagrad.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\optimizers\\optimizer_v2\\adam.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\optimizers\\optimizer_v2\\adamax.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\optimizers\\optimizer_v2\\ftrl.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\optimizers\\optimizer_v2\\gradient_descent.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\optimizers\\optimizer_v2\\nadam.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\optimizers\\optimizer_v2\\optimizer_v2.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\optimizers\\optimizer_v2\\rmsprop.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\optimizers\\optimizer_v2\\utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\optimizers\\optimizer_v2\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\optimizers\\schedules\\learning_rate_schedule.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\optimizers\\schedules\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\premade_models\\linear.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\premade_models\\wide_deep.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\premade_models\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\preprocessing\\image.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\preprocessing\\sequence.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\preprocessing\\text.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\preprocessing\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\protobuf\\projector_config_pb2.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\protobuf\\saved_metadata_pb2.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\protobuf\\versions_pb2.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\protobuf\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\saving\\hdf5_format.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\saving\\model_config.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\saving\\pickle_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\saving\\save.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\saving\\saved_model_experimental.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\saving\\saving_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\saving\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\saving\\saved_model\\base_serialization.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\saving\\saved_model\\constants.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\saving\\saved_model\\json_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\saving\\saved_model\\layer_serialization.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\saving\\saved_model\\load.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\saving\\saved_model\\load_context.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\saving\\saved_model\\metric_serialization.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\saving\\saved_model\\model_serialization.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\saving\\saved_model\\network_serialization.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\saving\\saved_model\\order_preserving_set.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\saving\\saved_model\\save.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\saving\\saved_model\\save_impl.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\saving\\saved_model\\serialized_attributes.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\saving\\saved_model\\utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\saving\\saved_model\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\saving\\utils_v1\\export_output.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\saving\\utils_v1\\export_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\saving\\utils_v1\\mode_keys.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\saving\\utils_v1\\signature_def_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\saving\\utils_v1\\unexported_constants.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\saving\\utils_v1\\__init__.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-679-301
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\intent_handler.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)

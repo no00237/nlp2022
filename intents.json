@@ -1,0 +1,1606 @@
+[
+ {
+   "Inputs": "how's everything",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "how are things going",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "hello, anyone there",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "are you okay right now",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "are you doing okay",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "how's it going right now",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "ahoy hoy",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "hey there!",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "how is everything with you",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "hey hey!",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "how have you been doing",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "it's nice to see you",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "hello there!",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "how is it going",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "how are things with you",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "hiya!",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "what's up",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "how're you doing",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "it's good to see you",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "is everything going okay",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "how is everything going",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "how goes it",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "hello, ai",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "hey, ai",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "wake up, ai",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "good day",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "greetings to you",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "hello, friend",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "whats up with you",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "hey there fellow",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "whats up",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "yo, hows it going",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "how are things for you",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "are things going well for you",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "hello siri",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "hi there alexa",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "how are you doing, ai",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "ai how are you doing today",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "how are you doing today, ai",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "how is my ai doing",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "ai how are you doing on this fine day",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "heller",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "so how is everything",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "how are you this day",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "hi how are you",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "how is everything going for you",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "hi how is everything",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "well hello",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "just wanted to say hi",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "how is your day",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "why hello",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "are you well",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "hola",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "good to see you",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "how've you been feeling",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "how are things",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "are you doing well",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "good evening",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "yo",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "ai, how are you feeling",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "how is the ai doing",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "ai, how are you doing",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "hi ai",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "have you been good",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "is everything ok with you",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "how have you been",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "are you doing ok",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "how are you",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "how's life",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "what's up with you",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "what's going on",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "how's it going with you",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "how's ife treating you",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "hello how's it going",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "how are you today",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "can you tell me how you're doing today",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "how are you this fine day",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "how are things treating you",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "aloha",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "are you feeling okay",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "how do you feel",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "bonjour",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "how are things going for you",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "what do you feel like doing",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "hello, what's up",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "hey how's life",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "hi there",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "hey how's it hanging",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "tell me how you've been",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "how is life treating you",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "hi there, how are things",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "hello, how are you",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "hey, how's it going",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "hello, are you doing alright",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "hi! are you doing okay",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "what's happening",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "hey what's up",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "why, hello bandit",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "howdy, what's new",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "salutations!",
+   "Intents": "greeting"
+ },
+ {
+   "Inputs": "yep",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "that is affirmative",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "what you just said is true",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "that is not false",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "that is a fact",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "i agree with the truth of what you just said",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "i believe what you just said is true",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "that would be great",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "that would be awesome",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "that is totally true",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "oh yes",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "yes that is right",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "that is a yes",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "that seems true",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "positive",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "TRUE",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "very true",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "that will be true",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "that appears true",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "that is true",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "it is true",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "that is right",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "that statement was correct",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "i think that's true",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "that is accurate",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "yes, that is it",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "correct",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "the answer is yes",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "all right",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "it's indeed true",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "that's a yes from me",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "yes you are correct",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "that's a definite yes",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "yes that's it",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "i vote yes",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "that is correct",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "yes, that is true",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "yep, that's right",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "yeah that's what i want",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "you got it",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "yeah that's right, so true",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "true is my response",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "yes, that's affirmative",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "yes, you got it",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "absolutely!",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "do that",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "absolutely correct",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "confirm",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "yes, i'd really like that alot",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "agreed, that's valid",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "affirmative, go ahead",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "yes that's correct",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "yeah, that's how it is",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "yeah, that's right",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "of course",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "that's the truth",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "exactly right",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "yes, that's accurate",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "yes, that is accurate",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "yes, that's what i want",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "yes, that is a fact",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "yes, that is correct",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "yes, that's confirmed",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "indeed",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "yes",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "uh-huh",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "correct, that's true",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "yes, that's correct",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "yeah",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "yeap",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "ok",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "sure thing",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "yes you are right",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "yes you are",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "yes i do like that",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "yes that is correct",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "yes i am",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "i think it's true",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "that would be yes",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "that would be true",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "i believe that's true",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "uh huh",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "yep, that's true",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "yes, that is actually true",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "yes, that's it",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "yes, that is right",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "correct, it is affirmative",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "the answer to that is a resounding yes",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "i can confirm it is affirmative",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "my response to that is yes",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "i have to say affirmative on that one",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "i would have to say yes as my answer",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "the answer to that is affirmative",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "that is true, yes",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "it is definitely affirmative",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "is is very much true",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "it is a true",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "its a for sure true",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "yes sir",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "it's true",
+   "Intents": "yes"
+ },
+ {
+   "Inputs": "no, that's incorrect",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "that's not true",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "that is not true, it's false",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "no way",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "not really",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "naw",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "nay",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "i must say no",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "i think not",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "that is actually false",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "i gotta say no",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "no thanks",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "no is the answer",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "i don't think so",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "it's a no",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "i think it is false",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "not true",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "that is not true",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "not at all",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "that turns out to be false",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "please, no",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "not that",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "definitely not",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "i would have to say the answer to that is no",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "i say no to that question",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "no, that is my response",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "i don't believe that is possible, it is false",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "i would say that the statement is definitely false",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "i am afraid that that is not the case",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "no, that information is wrong",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "that is a completely false statement",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "that would be a no",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "i do not think that is true, so i would say it is a false statement",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "incorrect, it is certainly a false statement",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "i do not believe that that is correct",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "the answer is definitely no",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "sorry, that is not true",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "that's a negative",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "no!",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "that's not right",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "no, don't do that",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "i don't like that, no",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "no way!",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "oh hell no, that'd be terrible!",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "that's inaccurate",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "that's not what i want!",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "that's completely false",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "that's incorrect!",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "that's totally wrong!",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "that's a hard no from me",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "no don't do that!",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "no that is not right",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "false for sure",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "that's definitely false",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "nope, that's false",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "no, that is not right",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "no, that is inaccurate",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "no, that can't be right",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "that is untrue",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "i disagree that is false",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "what you just said is false",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "that is erroneous",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "no that's wrong",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "that isn't the right answer",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "the information is wrong",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "that is not correct",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "that is not right",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "that is wrong",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "i'll pass",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "not that one",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "that's not right, so no",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "the answer is false",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "no, that is not right at all",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "that is overwhelmingly false",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "that's not right it's false",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "i say negative",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "negative for sure",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "nope",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "no thank you",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "that is not the case",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "no that isn't the case",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "no that isn't it",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "no that isn't correct",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "that would be \"no",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "you are wrong",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "no that is wrong",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "that is false",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "negative",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "what you just said is wrong",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "that’s actually wrong",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "that’s not correct",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "that’s incorrect",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "are you sure i don’t think that’s correct",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "that'd be a no",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "nada",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "the answer is no",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "i think that's false",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "i believe that to be false",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "it seems not",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "that would be false",
+   "Intents": "no"
+ },
+ {
+   "Inputs": "i want to create a new entry",
+   "Intents": "add_entry"
+ },
+ {
+   "Inputs": "let's create an entry",
+   "Intents": "add_entry"
+ },
+ {
+   "Inputs": "i need to create an entry",
+   "Intents": "add_entry"
+ },
+ {
+   "Inputs": "let's have a chat",
+   "Intents": "add_entry"
+ },
+ {
+   "Inputs": "i want to chat",
+   "Intents": "add_entry"
+ },
+ {
+   "Inputs": "i want to add to the diary",
+   "Intents": "add_entry"
+ },
+ {
+   "Inputs": "can we add to my diary",
+   "Intents": "add_entry"
+ },
+ {
+   "Inputs": "can we have a chat about my day",
+   "Intents": "add_entry"
+ },
+ {
+   "Inputs": "i want to add my day to the diary",
+   "Intents": "add_entry"
+ },
+ {
+   "Inputs": "let's talk about my day",
+   "Intents": "add_entry"
+ },
+ {
+   "Inputs": "i need to add to the diary",
+   "Intents": "add_entry"
+ },
+ {
+   "Inputs": "i want to create a new diary entry",
+   "Intents": "add_entry"
+ },
+ {
+   "Inputs": "i want to create a new diary entry",
+   "Intents": "add_entry"
+ },
+ {
+   "Inputs": "let's discuss my day",
+   "Intents": "add_entry"
+ },
+ {
+   "Inputs": "can we talk about my day",
+   "Intents": "add_entry"
+ },
+ {
+   "Inputs": "can we have a chat",
+   "Intents": "add_entry"
+ },
+ {
+   "Inputs": "let's have a conversation",
+   "Intents": "add_entry"
+ },
+ {
+   "Inputs": " i want to have a conversation",
+   "Intents": "add_entry"
+ },
+ {
+   "Inputs": "i want to begin a new diary entry",
+   "Intents": "add_entry"
+ },
+ {
+   "Inputs": "i want to begin a conversation",
+   "Intents": "add_entry"
+ },
+ {
+   "Inputs": "i want to talk about my day",
+   "Intents": "add_entry"
+ },
+ {
+   "Inputs": "let's talk",
+   "Intents": "add_entry"
+ },
+ {
+   "Inputs": "let's chat",
+   "Intents": "add_entry"
+ },
+ {
+   "Inputs": "i wanna add to my diary",
+   "Intents": "add_entry"
+ },
+ {
+   "Inputs": "i wanna add an entry",
+   "Intents": "add_entry"
+ },
+ {
+   "Inputs": "i wanna talk",
+   "Intents": "add_entry"
+ },
+ {
+   "Inputs": "i wanna chat",
+   "Intents": "add_entry"
+ },
+ {
+   "Inputs": "let's begin a new entry",
+   "Intents": "add_entry"
+ },
+ {
+   "Inputs": "please can i add an entry",
+   "Intents": "add_entry"
+ },
+ {
+   "Inputs": "please can i talk about my day",
+   "Intents": "add_entry"
+ },
+ {
+   "Inputs": "i want to talk about what happened today",
+   "Intents": "add_entry"
+ },
+ {
+   "Inputs": "i want to add what happened today to my diary",
+   "Intents": "add_entry"
+ },
+ {
+   "Inputs": "lets discuss what happened today",
+   "Intents": "add_entry"
+ },
+ {
+   "Inputs": "i want to talk about today",
+   "Intents": "add_entry"
+ },
+ {
+   "Inputs": "can we go over my day",
+   "Intents": "add_entry"
+ },
+ {
+   "Inputs": "can we summarise my day",
+   "Intents": "add_entry"
+ },
+ {
+   "Inputs": "i want to log my day ",
+   "Intents": "add_entry"
+ },
+ {
+   "Inputs": "i want to log what happened today",
+   "Intents": "add_entry"
+ },
+ {
+   "Inputs": "let's have a conversation about my day",
+   "Intents": "add_entry"
+ },
+ {
+   "Inputs": "i want to have a conversation",
+   "Intents": "add_entry"
+ },
+ {
+   "Inputs": "let's discuss what happened today",
+   "Intents": "add_entry"
+ },
+ {
+   "Inputs": "can we talk about last week",
+   "Intents": "entry_query"
+ },
+ {
+   "Inputs": "i want to talk about an earlier day",
+   "Intents": "entry_query"
+ },
+ {
+   "Inputs": "i want to discuss what happened last thursday",
+   "Intents": "entry_query"
+ },
+ {
+   "Inputs": "can i view a previous entry?",
+   "Intents": "entry_query"
+ },
+ {
+   "Inputs": "i want to see an early entry",
+   "Intents": "entry_query"
+ },
+ {
+   "Inputs": "what did i do 5 days ago",
+   "Intents": "entry_query"
+ },
+ {
+   "Inputs": "who did i visit 3 days ago?",
+   "Intents": "entry_query"
+ },
+ {
+   "Inputs": "what was I doing 2 weeks ago?",
+   "Intents": "entry_query"
+ },
+ {
+   "Inputs": "how did i feel yesterday?",
+   "Intents": "entry_query"
+ },
+ {
+   "Inputs": "who did i see yesterday?",
+   "Intents": "entry_query"
+ },
+ {
+   "Inputs": "when is the last time i saw bob?",
+   "Intents": "entry_query"
+ },
+ {
+   "Inputs": "where did i go 9 days ago?",
+   "Intents": "entry_query"
+ },
+ {
+   "Inputs": "what was i doing with alex last night?",
+   "Intents": "entry_query"
+ },
+ {
+   "Inputs": "how did i feel last wednesday",
+   "Intents": "entry_query"
+ },
+ {
+   "Inputs": "when was the last time i was sad?",
+   "Intents": "entry_query"
+ },
+ {
+   "Inputs": "who did i visit mcdonald's with?",
+   "Intents": "entry_query"
+ },
+ {
+   "Inputs": "did i go to the gym last week?",
+   "Intents": "entry_query"
+ },
+ {
+   "Inputs": "when did i last meet chad?",
+   "Intents": "entry_query"
+ },
+ {
+   "Inputs": "how was i feeling when i saw brad?",
+   "Intents": "entry_query"
+ },
+ {
+   "Inputs": "tell me where i went on sunday",
+   "Intents": "entry_query"
+ },
+ {
+   "Inputs": "tell me what i did 2 days ago",
+   "Intents": "entry_query"
+ },
+ {
+   "Inputs": "show me the previous entries",
+   "Intents": "entry_query"
+ },
+ {
+   "Inputs": "show me my entry from 3 days ago",
+   "Intents": "entry_query"
+ },
+ {
+   "Inputs": "tell me who i saw 2 weeks ago",
+   "Intents": "entry_query"
+ },
+ {
+   "Inputs": "tell me when i last went to kfc",
+   "Intents": "entry_query"
+ },
+ {
+   "Inputs": "tell me my emotions 12 days ago",
+   "Intents": "entry_query"
+ },
+ {
+   "Inputs": "what were my emotions last wednesday",
+   "Intents": "entry_query"
+ },
+ {
+   "Inputs": "was i anxious when i went to the concert",
+   "Intents": "entry_query"
+ },
+ {
+   "Inputs": "was bill there when i went to school",
+   "Intents": "entry_query"
+ },
+ {
+   "Inputs": "was i sad when i went to the water park",
+   "Intents": "entry_query"
+ },
+ {
+   "Inputs": "when i met cory was i sad?",
+   "Intents": "entry_query"
+ },
+ {
+   "Inputs": "how long ago was i tired",
+   "Intents": "entry_query"
+ },
+ {
+   "Inputs": "how long ago did i visit the zoo",
+   "Intents": "entry_query"
+ },
+ {
+   "Inputs": "how long ago did i go back home?",
+   "Intents": "entry_query"
+ },
+ {
+   "Inputs": "how long ago did i see alice?",
+   "Intents": "entry_query"
+ },
+ {
+   "Inputs": "tell me who i saw in the station 4 days ago",
+   "Intents": "entry_query"
+ },
+ {
+   "Inputs": "who did i visit the park with last week?",
+   "Intents": "entry_query"
+ },
+ {
+   "Inputs": "Bye",
+   "Intents": "bye"
+ },
+ {
+   "Inputs": "Adios",
+   "Intents": "bye"
+ },
+ {
+   "Inputs": "See you later",
+   "Intents": "bye"
+ },
+ {
+   "Inputs": "Goodbye",
+   "Intents": "bye"
+ },
+ {
+   "Inputs": "have a nice day",
+   "Intents": "bye"
+ },
+ {
+   "Inputs": "sayonara",
+   "Intents": "bye"
+ },
+ {
+   "Inputs": "ciao",
+   "Intents": "bye"
+ },
+ {
+   "Inputs": "k",
+   "Intents": "bye"
+ },
+ {
+   "Inputs": "take care",
+   "Intents": "bye"
+ },
+ {
+   "Inputs": "take care of yourself",
+   "Intents": "bye"
+ },
+ {
+   "Inputs": "goodnight",
+   "Intents": "bye"
+ },
+ {
+   "Inputs": "bye bye",
+   "Intents": "bye"
+ },
+ {
+   "Inputs": "I'm going to go ",
+   "Intents": "bye"
+ },
+ {
+   "Inputs": "I gotta to go",
+   "Intents": "bye"
+ },
+ {
+   "Inputs": "talk to you later",
+   "Intents": "bye"
+ },
+ {
+   "Inputs": "catch you later",
+   "Intents": "bye"
+ },
+ {
+   "Inputs": "adios alligator ",
+   "Intents": "bye"
+ },
+ {
+   "Inputs": "I'm off",
+   "Intents": "bye"
+ },
+ {
+   "Inputs": "peace",
+   "Intents": "bye"
+ },
+ {
+   "Inputs": "peace out",
+   "Intents": "bye"
+ },
+ {
+   "Inputs": "I gotta jet",
+   "Intents": "bye"
+ },
+ {
+   "Inputs": "I gotta head out",
+   "Intents": "bye"
+ },
+ {
+   "Inputs": "I gotta hit the road",
+   "Intents": "bye"
+ }
+]
