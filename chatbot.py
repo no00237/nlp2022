@@ -30,7 +30,7 @@ class Chatbot:
                 self.state = STATE.ADD_ENTRY
                 response = "Tell me about your day!"
 
-            elif intent == "goodbye":
+            elif intent == "bye":
                 response = intent_handler.get_response_by_intent(intent)
                 response = response.format(self.users_name)
                 self.state == STATE.QUIT
