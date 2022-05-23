@@ -1,0 +1,114 @@
+[
+ {
+   "response": "Good Day !",
+   "intent": "GREETING"
+ },
+ {
+   "response": "Hi {}",
+   "intent": "GREETING"
+ },
+ {
+   "response": "Great! Hi {}! How can I help?",
+   "intent": "GREETING"
+ },
+ {
+   "response": "Good! Hi {} , how can I help you?",
+   "intent": "GREETING"
+ },
+ {
+   "response": "Cool! Hello {} , what can I do for you?",
+   "intent": "GREETING"
+ },
+ {
+   "response": "OK! Hola {}, how can I help you?",
+   "intent": "GREETING"
+ },
+ {
+   "response": "OK! hi {}, what can I do for you?",
+   "intent": "GREETING"
+ },
+ {
+   "response": "Hi {}  How can I help?",
+   "intent": "GREETING"
+ },
+ {
+   "response": "Hi {} how can I help you?",
+   "intent": "GREETING"
+ },
+ {
+   "response": "Hello {}, what can I do for you?",
+   "intent": "GREETING"
+ },
+ {
+   "response": "Hola {}, how can I help you?",
+   "intent": "GREETING"
+ },
+ {
+   "response": "OK hi {}  what can I do for you?",
+   "intent": "BYE"
+ },
+ {
+   "response": "Goodbye {}",
+   "intent": "BYE"
+ },
+ {
+   "response": "See you later {}",
+   "intent": "BYE"
+ },
+ {
+   "response": "It's been nice talking to you {}",
+   "intent": "BYE"
+ },
+ {
+   "response": "Adios",
+   "intent": "BYE"
+ },
+ {
+   "response": "Ciao ciao",
+   "intent": "BYE"
+ },
+ {
+   "response": "bye-bye {}",
+   "intent": "BYE"
+ },
+ {
+   "response": "See you soon",
+   "intent": "BYE"
+ },
+ {
+   "response": "Goodnight {}",
+   "intent": "VIEW_ENTRY"
+ },
+ {
+   "response": "Here is your entry for {}",
+   "intent": "VIEW_ENTRY"
+ },
+ {
+   "response": "Let me get your entry: ",
+   "intent": "VIEW_ENTRY"
+ },
+ {
+   "response": "Searching for your entry",
+   "intent": "VIEW_ENTRY"
+ },
+ {
+   "response": "Beep bop pop let me try to find your entry for {}",
+   "intent": "ADD_ENTRY"
+ },
+ {
+   "response": "Tell me about what you did.",
+   "intent": "ADD_ENTRY"
+ },
+ {
+   "response": "Ready to record your entry. ",
+   "intent": "ADD_ENTRY"
+ },
+ {
+   "response": "I'm ready to hear what you did.",
+   "intent": "ADD_ENTRY"
+ },
+ {
+   "response": "I'm listening! ",
+   "intent": "ADD_ENTRY"
+ }
+]

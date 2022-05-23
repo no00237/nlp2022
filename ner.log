@@ -1361,3 +1361,1238 @@ WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 104-679-301
 INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\intent_handler.py', reloading
 INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-679-301
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 23:58:27] "POST /start_greeting HTTP/1.1" 200 -
+INFO:root:Making Prediction
+INFO:simpletransformers.ner.ner_model: Converting to features started.
+INFO:root:
+NER PREDICTION 
+User input: hi
+ Predicted Entities: {}
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 23:58:42] "POST /get_response HTTP/1.1" 200 -
+INFO:root:Making Prediction
+INFO:simpletransformers.ner.ner_model: Converting to features started.
+INFO:root:
+NER PREDICTION 
+User input: joe
+ Predicted Entities: {}
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 23:58:52] "POST /get_response HTTP/1.1" 200 -
+INFO:root:Making Prediction
+INFO:simpletransformers.ner.ner_model: Converting to features started.
+INFO:root:
+NER PREDICTION 
+User input: Joe
+ Predicted Entities: {'Joe': 'PERSON'}
+INFO:werkzeug:127.0.0.1 - - [22/May/2022 23:58:59] "POST /get_response HTTP/1.1" 200 -
+INFO:root:Making Prediction
+INFO:simpletransformers.ner.ner_model: Converting to features started.
+INFO:root:
+NER PREDICTION 
+User input: yes
+ Predicted Entities: {}
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\keras\\engine\\training.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-679-301
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\intent_handler.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\intent_handler.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\intent_handler.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\intent_handler.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-679-301
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 00:00:57] "POST /start_greeting HTTP/1.1" 200 -
+INFO:root:Making Prediction
+INFO:simpletransformers.ner.ner_model: Converting to features started.
+INFO:root:
+NER PREDICTION 
+User input: my name is Joe
+ Predicted Entities: {'Joe': 'PERSON'}
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 00:01:16] "POST /get_response HTTP/1.1" 200 -
+INFO:root:Making Prediction
+INFO:simpletransformers.ner.ner_model: Converting to features started.
+INFO:root:
+NER PREDICTION 
+User input: yes
+ Predicted Entities: {}
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 00:03:14] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 00:03:28] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 00:03:37] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\test.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\codecs.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-679-301
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\intent_handler.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\intent_handler.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\intent_handler.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-679-301
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\123.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-679-301
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\torch\\nn\\modules\\dropout.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\torch\\nn\\modules\\loss.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-679-301
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\intent_handler.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\intent_handler.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\intent_handler.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\intent_handler.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\123.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\123.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\123.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-679-301
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\123.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\123.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-679-301
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\intent_handler.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\intent_handler.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\intent_handler.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\intent_handler.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-679-301
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\werkzeug\\utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\werkzeug\\wrappers\\response.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.9\\Lib\\site-packages\\werkzeug\\sansio\\response.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-679-301
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\AppData\\Local\\Temp\\__autograph_generated_filedxt8apik.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\AppData\\Local\\Temp\\__autograph_generated_filedxt8apik.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\AppData\\Local\\Temp\\__autograph_generated_filedxt8apik.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-679-301
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\AppData\\Local\\Temp\\__autograph_generated_filer1o6kt6v.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\AppData\\Local\\Temp\\__autograph_generated_filer1o6kt6v.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\AppData\\Local\\Temp\\__autograph_generated_filer1o6kt6v.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-679-301
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\intent_handler.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-679-301
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-679-301
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\test.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-679-301
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 04:32:02] "POST /start_greeting HTTP/1.1" 200 -
+INFO:root:Making Prediction
+INFO:simpletransformers.ner.ner_model: Converting to features started.
+INFO:root:
+NER PREDICTION 
+User input: my name is Hon
+ Predicted Entities: {'Hon': 'PERSON'}
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 04:32:16] "POST /get_response HTTP/1.1" 200 -
+INFO:root:Making Prediction
+INFO:simpletransformers.ner.ner_model: Converting to features started.
+INFO:root:
+NER PREDICTION 
+User input: yes
+ Predicted Entities: {}
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 04:32:25] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 04:32:40] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 04:33:06] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 04:33:34] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/May/2022 04:33:49] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\codecs.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-679-301
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\intent_handler.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\intent_handler.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-679-301
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\absl\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-679-301
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\setup.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\bsplines.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\filter_design.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\fir_filter_design.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\ltisys.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\lti_conversion.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\setup.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\signaltools.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\spectral.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\spline.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\tests\\mpsig.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\tests\\test_array_tools.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\tests\\test_bsplines.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\tests\\test_cont2discrete.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\tests\\test_czt.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\tests\\test_dltisys.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\tests\\test_filter_design.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\tests\\test_fir_filter_design.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\tests\\test_ltisys.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\tests\\test_max_len_seq.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\tests\\test_peak_finding.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\tests\\test_result_type.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\tests\\test_savitzky_golay.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\tests\\test_signaltools.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\tests\\test_spectral.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\tests\\test_upfirdn.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\tests\\test_waveforms.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\tests\\test_wavelets.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\tests\\test_windows.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\tests\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\waveforms.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\wavelets.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\windows\\setup.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\windows\\windows.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\windows\\_windows.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\windows\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\_arraytools.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\_bsplines.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\_czt.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\_filter_design.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\_fir_filter_design.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\_ltisys.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\_lti_conversion.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\_max_len_seq.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\_max_len_seq_inner.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\_peak_finding.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\_savitzky_golay.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\_signaltools.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\_spectral.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\_spectral_py.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\_upfirdn.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\_waveforms.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\_wavelets.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\signal\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\base.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\bsr.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\compressed.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\construct.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\coo.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\csc.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\csgraph\\setup.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\csgraph\\tests\\test_connected_components.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\csgraph\\tests\\test_conversions.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\csgraph\\tests\\test_flow.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\csgraph\\tests\\test_graph_laplacian.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\csgraph\\tests\\test_matching.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\csgraph\\tests\\test_reordering.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\csgraph\\tests\\test_shortest_path.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\csgraph\\tests\\test_spanning_tree.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\csgraph\\tests\\test_traversal.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\csgraph\\tests\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\csgraph\\_laplacian.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\csgraph\\_validation.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\csgraph\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\csr.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\data.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\dia.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\dok.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\extract.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\lil.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\dsolve.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\eigen.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\interface.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\isolve.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\matfuncs.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\setup.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\tests\\test_expm_multiply.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\tests\\test_interface.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\tests\\test_matfuncs.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\tests\\test_norm.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\tests\\test_onenormest.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\tests\\test_propack.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\tests\\test_pydata_sparse.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\tests\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\_dsolve\\linsolve.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\_dsolve\\setup.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\_dsolve\\tests\\test_linsolve.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\_dsolve\\tests\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\_dsolve\\_add_newdocs.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\_dsolve\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\_eigen\\arpack\\arpack.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\_eigen\\arpack\\setup.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\_eigen\\arpack\\tests\\test_arpack.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\_eigen\\arpack\\tests\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\_eigen\\arpack\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\_eigen\\lobpcg\\lobpcg.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\_eigen\\lobpcg\\setup.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\_eigen\\lobpcg\\tests\\test_lobpcg.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\_eigen\\lobpcg\\tests\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\_eigen\\lobpcg\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\_eigen\\setup.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\_eigen\\tests\\test_svds.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\_eigen\\tests\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\_eigen\\_svds.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\_eigen\\_svds_doc.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\_eigen\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\_expm_multiply.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\_interface.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\_isolve\\iterative.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\_isolve\\lgmres.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\_isolve\\lsmr.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\_isolve\\lsqr.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\_isolve\\minres.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\_isolve\\setup.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\_isolve\\tests\\demo_lgmres.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\_isolve\\tests\\test_gcrotmk.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\_isolve\\tests\\test_iterative.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\_isolve\\tests\\test_lgmres.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\_isolve\\tests\\test_lsmr.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\_isolve\\tests\\test_lsqr.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\_isolve\\tests\\test_minres.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\_isolve\\tests\\test_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\_isolve\\tests\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\_isolve\\tfqmr.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\_isolve\\utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\_isolve\\_gcrotmk.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\_isolve\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\_matfuncs.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\_norm.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\_onenormest.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\_svdp.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\linalg\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\setup.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\sparsetools.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\spfuncs.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\sputils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\tests\\test_array_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\tests\\test_base.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\tests\\test_construct.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\tests\\test_csc.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\tests\\test_csr.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\tests\\test_extract.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\tests\\test_matrix_io.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\tests\\test_sparsetools.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\tests\\test_spfuncs.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\tests\\test_sputils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\tests\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\_arrays.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\_base.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\_bsr.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\_compressed.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\_construct.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\_coo.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\_csc.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\_csr.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\_data.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\_dia.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\_dok.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\_extract.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\_generate_sparsetools.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\_index.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\_lil.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\_matrix_io.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\_spfuncs.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\_sputils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\sparse\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\spatial\\ckdtree.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\spatial\\distance.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\spatial\\kdtree.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\spatial\\qhull.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\spatial\\setup.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\spatial\\tests\\test_distance.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\spatial\\tests\\test_hausdorff.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\spatial\\tests\\test_kdtree.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\spatial\\tests\\test_qhull.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\spatial\\tests\\test_slerp.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\spatial\\tests\\test_spherical_voronoi.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\spatial\\tests\\test__plotutils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\spatial\\tests\\test__procrustes.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\spatial\\tests\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\spatial\\transform\\rotation.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\spatial\\transform\\setup.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\spatial\\transform\\tests\\test_rotation.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\spatial\\transform\\tests\\test_rotation_groups.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\spatial\\transform\\tests\\test_rotation_spline.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\spatial\\transform\\tests\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\spatial\\transform\\_rotation_groups.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\spatial\\transform\\_rotation_spline.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\spatial\\transform\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\spatial\\_geometric_slerp.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\spatial\\_kdtree.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\spatial\\_plotutils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\spatial\\_procrustes.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\spatial\\_spherical_voronoi.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\spatial\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\add_newdocs.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\basic.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\orthogonal.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\setup.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\sf_error.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\specfun.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\spfun_stats.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\tests\\test_basic.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\tests\\test_bdtr.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\tests\\test_boxcox.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\tests\\test_cdflib.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\tests\\test_cdft_asymptotic.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\tests\\test_cosine_distr.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\tests\\test_cython_special.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\tests\\test_data.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\tests\\test_digamma.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\tests\\test_ellip_harm.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\tests\\test_erfinv.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\tests\\test_exponential_integrals.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\tests\\test_faddeeva.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\tests\\test_gamma.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\tests\\test_gammainc.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\tests\\test_hyp2f1.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\tests\\test_hypergeometric.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\tests\\test_kolmogorov.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\tests\\test_lambertw.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\tests\\test_loggamma.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\tests\\test_logit.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\tests\\test_logsumexp.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\tests\\test_log_softmax.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\tests\\test_mpmath.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\tests\\test_nan_inputs.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\tests\\test_ndtr.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\tests\\test_ndtri_exp.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\tests\\test_orthogonal.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\tests\\test_orthogonal_eval.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\tests\\test_owens_t.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\tests\\test_pcf.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\tests\\test_pdtr.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\tests\\test_precompute_expn_asy.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\tests\\test_precompute_gammainc.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\tests\\test_precompute_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\tests\\test_round.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\tests\\test_sf_error.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\tests\\test_sici.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\tests\\test_spence.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\tests\\test_spfun_stats.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\tests\\test_spherical_bessel.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\tests\\test_sph_harm.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\tests\\test_trig.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\tests\\test_wrightomega.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\tests\\test_wright_bessel.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\tests\\test_zeta.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\tests\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\_add_newdocs.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\_basic.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\_ellip_harm.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\_generate_pyx.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\_lambertw.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\_logsumexp.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\_mptestutils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\_orthogonal.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\_precompute\\cosine_cdf.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\_precompute\\expn_asy.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\_precompute\\gammainc_asy.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\_precompute\\gammainc_data.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\_precompute\\hyp2f1_data.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\_precompute\\lambertw.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\_precompute\\loggamma.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\_precompute\\setup.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\_precompute\\struve_convergence.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\_precompute\\utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\_precompute\\wrightomega.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\_precompute\\wright_bessel.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\_precompute\\wright_bessel_data.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\_precompute\\zetac.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\_precompute\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\_sf_error.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\_spfun_stats.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\_spherical_bessel.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\_testutils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\special\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\biasedurn.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\contingency.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\distributions.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\kde.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\morestats.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\mstats.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\mstats_basic.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\mstats_extras.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\mvn.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\qmc.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\sampling.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\setup.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\statlib.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\stats.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\tests\\common_tests.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\tests\\studentized_range_mpmath_ref.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\tests\\test_axis_nan_policy.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\tests\\test_binned_statistic.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\tests\\test_bootstrap.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\tests\\test_contingency.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\tests\\test_continuous_basic.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\tests\\test_crosstab.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\tests\\test_discrete_basic.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\tests\\test_discrete_distns.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\tests\\test_distributions.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\tests\\test_entropy.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\tests\\test_fit.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\tests\\test_hypotests.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\tests\\test_kdeoth.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\tests\\test_morestats.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\tests\\test_mstats_basic.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\tests\\test_mstats_extras.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\tests\\test_multivariate.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\tests\\test_qmc.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\tests\\test_rank.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\tests\\test_relative_risk.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\tests\\test_sampling.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\tests\\test_stats.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\tests\\test_tukeylambda_stats.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\tests\\test_variation.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\tests\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\_axis_nan_policy.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\_binned_statistic.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\_binomtest.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\_boost\\setup.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\_boost\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\_bootstrap.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\_common.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\_constants.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\_continuous_distns.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\_crosstab.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\_discrete_distns.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\_distn_infrastructure.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\_distr_params.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\_entropy.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\_generate_pyx.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\_hypotests.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\_hypotests_pythran.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\_kde.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\_ksstats.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\_mannwhitneyu.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\_morestats.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\_mstats_basic.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\_mstats_extras.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\_multivariate.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\_page_trend_test.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\_qmc.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\_relative_risk.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\_result_classes.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\_rvs_sampling.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\_stats_mstats_common.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\_stats_py.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\_tukeylambda_stats.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\_unuran\\setup.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\_unuran\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\_variation.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\_wilcoxon_data.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\stats\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\version.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\_build_utils\\compiler_helper.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\_build_utils\\setup.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\_build_utils\\system_info.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\_build_utils\\tempita.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\_build_utils\\tests\\test_scipy_version.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\_build_utils\\tests\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\_build_utils\\_fortran.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\_build_utils\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\_distributor_init.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\_lib\\decorator.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\_lib\\deprecation.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\_lib\\doccer.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\_lib\\setup.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\_lib\\tests\\test_bunch.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\_lib\\tests\\test_ccallback.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\_lib\\tests\\test_deprecation.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\_lib\\tests\\test_import_cycles.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\_lib\\tests\\test_public_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\_lib\\tests\\test_tmpdirs.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\_lib\\tests\\test_warnings.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\_lib\\tests\\test__gcutils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\_lib\\tests\\test__pep440.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\_lib\\tests\\test__testutils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\_lib\\tests\\test__threadsafety.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\_lib\\tests\\test__util.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\_lib\\tests\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\_lib\\uarray.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\_lib\\_boost_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\_lib\\_bunch.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\_lib\\_ccallback.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\_lib\\_disjoint_set.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\_lib\\_docscrape.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\_lib\\_gcutils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\_lib\\_pep440.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\_lib\\_testutils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\_lib\\_threadsafety.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\_lib\\_tmpdirs.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\_lib\\_uarray\\setup.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\_lib\\_uarray\\_backend.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\_lib\\_uarray\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\_lib\\_unuran_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\_lib\\_util.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\_lib\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\__config__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\scipy\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\semver.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\send2trash\\compat.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\send2trash\\exceptions.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\send2trash\\IFileOperationProgressSink.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\send2trash\\plat_gio.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\send2trash\\plat_osx.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\send2trash\\plat_osx_ctypes.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\send2trash\\plat_osx_pyobjc.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\send2trash\\plat_other.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\send2trash\\plat_win.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\send2trash\\plat_win_legacy.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\send2trash\\plat_win_modern.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\send2trash\\util.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\send2trash\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\send2trash\\__main__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentencepiece\\sentencepiece_model_pb2.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentencepiece\\sentencepiece_pb2.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentencepiece\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\attachments.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\client.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\consts.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\debug.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\envelope.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\hub.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\integrations\\aiohttp.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\integrations\\argv.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\integrations\\asgi.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\integrations\\atexit.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\integrations\\aws_lambda.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\integrations\\beam.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\integrations\\boto3.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\integrations\\bottle.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\integrations\\celery.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\integrations\\chalice.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\integrations\\dedupe.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\integrations\\django\\asgi.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\integrations\\django\\middleware.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\integrations\\django\\templates.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\integrations\\django\\transactions.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\integrations\\django\\views.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\integrations\\django\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\integrations\\excepthook.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\integrations\\executing.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\integrations\\falcon.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\integrations\\flask.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\integrations\\gcp.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\integrations\\gnu_backtrace.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\integrations\\httpx.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\integrations\\logging.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\integrations\\modules.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\integrations\\pure_eval.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\integrations\\pyramid.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\integrations\\quart.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\integrations\\redis.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\integrations\\rq.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\integrations\\sanic.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\integrations\\serverless.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\integrations\\spark\\spark_driver.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\integrations\\spark\\spark_worker.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\integrations\\spark\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\integrations\\sqlalchemy.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\integrations\\stdlib.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\integrations\\threading.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\integrations\\tornado.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\integrations\\trytond.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\integrations\\wsgi.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\integrations\\_wsgi_common.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\integrations\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\scope.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\serializer.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\session.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\sessions.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\tracing.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\tracing_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\transport.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\worker.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\_compat.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\_functools.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\_queue.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\_types.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sentry_sdk\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\seqeval\\metrics\\sequence_labeling.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\seqeval\\metrics\\v1.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\seqeval\\metrics\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\seqeval\\reporters.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\seqeval\\scheme.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\seqeval\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\archive_util.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\build_meta.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\command\\alias.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\command\\bdist_egg.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\command\\bdist_rpm.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\command\\build_clib.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\command\\build_ext.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\command\\build_py.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\command\\develop.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\command\\dist_info.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\command\\easy_install.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\command\\egg_info.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\command\\install.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\command\\install_egg_info.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\command\\install_lib.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\command\\install_scripts.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\command\\py36compat.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\command\\register.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\command\\rotate.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\command\\saveopts.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\command\\sdist.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\command\\setopt.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\command\\test.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\command\\upload.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\command\\upload_docs.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\command\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\config.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\depends.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\dep_util.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\dist.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\errors.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\extension.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\extern\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\glob.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\installer.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\launch.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\logging.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\monkey.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\msvc.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\namespaces.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\package_index.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\py34compat.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\sandbox.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\unicode_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\version.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\wheel.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\windows_support.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_deprecation_warning.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\archive_util.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\bcppcompiler.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\ccompiler.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\cmd.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\command\\bdist.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\command\\bdist_dumb.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\command\\bdist_msi.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\command\\bdist_rpm.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\command\\bdist_wininst.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\command\\build.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\command\\build_clib.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\command\\build_ext.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\command\\build_py.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\command\\build_scripts.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\command\\check.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\command\\clean.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\command\\config.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\command\\install.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\command\\install_data.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\command\\install_egg_info.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\command\\install_headers.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\command\\install_lib.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\command\\install_scripts.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\command\\py37compat.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\command\\register.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\command\\sdist.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\command\\upload.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\command\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\config.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\core.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\cygwinccompiler.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\debug.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\dep_util.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\dir_util.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\dist.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\errors.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\extension.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\fancy_getopt.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\filelist.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\file_util.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\log.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\msvc9compiler.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\msvccompiler.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\py35compat.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\py38compat.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\spawn.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\sysconfig.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\text_file.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\unixccompiler.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\util.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\version.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\versionpredicate.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\_msvccompiler.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_distutils\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_imp.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\more.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\recipes.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_vendor\\ordered_set.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\markers.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\requirements.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\specifiers.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\tags.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\version.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_manylinux.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_musllinux.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_structures.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\__about__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\_vendor\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\setuptools\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\shortuuid\\cli.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\shortuuid\\django_fields.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\shortuuid\\main.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\shortuuid\\tests.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\shortuuid\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\classification\\classification_model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\classification\\classification_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\classification\\multi_label_classification_model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\classification\\multi_modal_classification_model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\classification\\transformer_models\\albert_model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\classification\\transformer_models\\bert_model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\classification\\transformer_models\\camembert_model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\classification\\transformer_models\\distilbert_model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\classification\\transformer_models\\electra_model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\classification\\transformer_models\\flaubert_model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\classification\\transformer_models\\layoutlm_model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\classification\\transformer_models\\longformer_model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\classification\\transformer_models\\mmbt_model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\classification\\transformer_models\\mobilebert_model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\classification\\transformer_models\\roberta_model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\classification\\transformer_models\\xlm_model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\classification\\transformer_models\\xlm_roberta_model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\classification\\transformer_models\\xlnet_model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\classification\\transformer_models\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\classification\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\config\\global_args.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\config\\model_args.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\config\\utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\config\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\conv_ai\\conv_ai_model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\conv_ai\\conv_ai_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\conv_ai\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\custom_models\\models.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\custom_models\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\experimental\\classification\\classification_model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\experimental\\classification\\classification_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\experimental\\classification\\multi_label_classification_model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\experimental\\classification\\transformer_models\\albert_model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\experimental\\classification\\transformer_models\\bert_model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\experimental\\classification\\transformer_models\\camembert_model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\experimental\\classification\\transformer_models\\distilbert_model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\experimental\\classification\\transformer_models\\roberta_model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\experimental\\classification\\transformer_models\\xlm_model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\experimental\\classification\\transformer_models\\xlnet_model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\experimental\\classification\\transformer_models\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\experimental\\classification\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\experimental\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\language_generation\\language_generation_model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\language_generation\\language_generation_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\language_generation\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\language_modeling\\language_modeling_model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\language_modeling\\language_modeling_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\language_modeling\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\language_representation\\representation_model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\language_representation\\transformer_models\\bert_model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\language_representation\\transformer_models\\gpt2_model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\language_representation\\transformer_models\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\language_representation\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\losses\\dice_loss.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\losses\\focal_loss.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\losses\\loss_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\losses\\tversky_loss.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\losses\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\ner\\ner_model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\ner\\ner_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\ner\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\question_answering\\question_answering_model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\question_answering\\question_answering_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\question_answering\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\retrieval\\retrieval_model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\retrieval\\retrieval_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\retrieval\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\seq2seq\\seq2seq_model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\seq2seq\\seq2seq_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\seq2seq\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\streamlit\\classification_view.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\streamlit\\ner_view.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\streamlit\\qa_view.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\streamlit\\simple_view.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\streamlit\\streamlit_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\streamlit\\t5_view.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\streamlit\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\t5\\t5_model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\t5\\t5_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\t5\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\simpletransformers\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\six.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\base.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\calibration.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\cluster\\setup.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\cluster\\tests\\common.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\cluster\\tests\\test_affinity_propagation.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\cluster\\tests\\test_bicluster.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\cluster\\tests\\test_birch.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\cluster\\tests\\test_bisect_k_means.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\cluster\\tests\\test_dbscan.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\cluster\\tests\\test_feature_agglomeration.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\cluster\\tests\\test_hierarchical.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\cluster\\tests\\test_k_means.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\cluster\\tests\\test_mean_shift.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\cluster\\tests\\test_optics.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\cluster\\tests\\test_spectral.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\cluster\\tests\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\cluster\\_affinity_propagation.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\cluster\\_agglomerative.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\cluster\\_bicluster.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\cluster\\_birch.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\cluster\\_bisect_k_means.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\cluster\\_dbscan.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\cluster\\_feature_agglomeration.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\cluster\\_kmeans.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\cluster\\_mean_shift.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\cluster\\_optics.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\cluster\\_spectral.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\cluster\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\compose\\tests\\test_column_transformer.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\compose\\tests\\test_target.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\compose\\tests\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\compose\\_column_transformer.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\compose\\_target.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\compose\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\conftest.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\covariance\\tests\\test_covariance.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\covariance\\tests\\test_elliptic_envelope.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\covariance\\tests\\test_graphical_lasso.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\covariance\\tests\\test_robust_covariance.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\covariance\\tests\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\covariance\\_elliptic_envelope.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\covariance\\_empirical_covariance.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\covariance\\_graph_lasso.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\covariance\\_robust_covariance.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\covariance\\_shrunk_covariance.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\covariance\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\cross_decomposition\\tests\\test_pls.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\cross_decomposition\\tests\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\cross_decomposition\\_pls.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\cross_decomposition\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\datasets\\data\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\datasets\\descr\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\datasets\\images\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\datasets\\setup.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\datasets\\tests\\conftest.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\datasets\\tests\\data\\openml\\id_1\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\datasets\\tests\\data\\openml\\id_1119\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\datasets\\tests\\data\\openml\\id_2\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\datasets\\tests\\data\\openml\\id_292\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\datasets\\tests\\data\\openml\\id_3\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\datasets\\tests\\data\\openml\\id_40589\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\datasets\\tests\\data\\openml\\id_40675\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\datasets\\tests\\data\\openml\\id_40945\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\datasets\\tests\\data\\openml\\id_40966\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\datasets\\tests\\data\\openml\\id_42585\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\datasets\\tests\\data\\openml\\id_561\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\datasets\\tests\\data\\openml\\id_61\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\datasets\\tests\\data\\openml\\id_62\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\datasets\\tests\\data\\openml\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\datasets\\tests\\data\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\datasets\\tests\\test_20news.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\datasets\\tests\\test_base.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\datasets\\tests\\test_california_housing.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\datasets\\tests\\test_common.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\datasets\\tests\\test_covtype.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\datasets\\tests\\test_kddcup99.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\datasets\\tests\\test_lfw.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\datasets\\tests\\test_olivetti_faces.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\datasets\\tests\\test_openml.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\datasets\\tests\\test_rcv1.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\datasets\\tests\\test_samples_generator.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\datasets\\tests\\test_svmlight_format.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\datasets\\tests\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\datasets\\_arff_parser.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\datasets\\_base.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\datasets\\_california_housing.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\datasets\\_covtype.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\datasets\\_kddcup99.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\datasets\\_lfw.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\datasets\\_olivetti_faces.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\datasets\\_openml.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\datasets\\_rcv1.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\datasets\\_samples_generator.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\datasets\\_species_distributions.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\datasets\\_svmlight_format_io.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\datasets\\_twenty_newsgroups.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\datasets\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\decomposition\\setup.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\decomposition\\tests\\test_dict_learning.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\decomposition\\tests\\test_factor_analysis.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\decomposition\\tests\\test_fastica.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\decomposition\\tests\\test_incremental_pca.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\decomposition\\tests\\test_kernel_pca.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\decomposition\\tests\\test_nmf.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\decomposition\\tests\\test_online_lda.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\decomposition\\tests\\test_pca.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\decomposition\\tests\\test_sparse_pca.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\decomposition\\tests\\test_truncated_svd.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\decomposition\\tests\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\decomposition\\_base.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\decomposition\\_dict_learning.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\decomposition\\_factor_analysis.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\decomposition\\_fastica.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\decomposition\\_incremental_pca.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\decomposition\\_kernel_pca.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\decomposition\\_lda.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\decomposition\\_nmf.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\decomposition\\_pca.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\decomposition\\_sparse_pca.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\decomposition\\_truncated_svd.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\decomposition\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\discriminant_analysis.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\dummy.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\ensemble\\setup.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\ensemble\\tests\\test_bagging.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\ensemble\\tests\\test_base.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\ensemble\\tests\\test_common.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\ensemble\\tests\\test_forest.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\ensemble\\tests\\test_gradient_boosting.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\ensemble\\tests\\test_gradient_boosting_loss_functions.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\ensemble\\tests\\test_iforest.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\ensemble\\tests\\test_stacking.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\ensemble\\tests\\test_voting.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\ensemble\\tests\\test_weight_boosting.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\ensemble\\tests\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\ensemble\\_bagging.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\ensemble\\_base.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\ensemble\\_forest.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\ensemble\\_gb.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\ensemble\\_gb_losses.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\ensemble\\_hist_gradient_boosting\\binning.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\ensemble\\_hist_gradient_boosting\\gradient_boosting.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\ensemble\\_hist_gradient_boosting\\grower.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\ensemble\\_hist_gradient_boosting\\predictor.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\ensemble\\_hist_gradient_boosting\\tests\\test_binning.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\ensemble\\_hist_gradient_boosting\\tests\\test_bitset.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\ensemble\\_hist_gradient_boosting\\tests\\test_compare_lightgbm.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\ensemble\\_hist_gradient_boosting\\tests\\test_gradient_boosting.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\ensemble\\_hist_gradient_boosting\\tests\\test_grower.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\ensemble\\_hist_gradient_boosting\\tests\\test_histogram.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\ensemble\\_hist_gradient_boosting\\tests\\test_monotonic_contraints.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\ensemble\\_hist_gradient_boosting\\tests\\test_predictor.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\ensemble\\_hist_gradient_boosting\\tests\\test_splitting.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\ensemble\\_hist_gradient_boosting\\tests\\test_warm_start.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\ensemble\\_hist_gradient_boosting\\tests\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\ensemble\\_hist_gradient_boosting\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\ensemble\\_iforest.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\ensemble\\_stacking.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\ensemble\\_voting.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\ensemble\\_weight_boosting.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\ensemble\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\exceptions.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\experimental\\enable_halving_search_cv.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\experimental\\enable_hist_gradient_boosting.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\experimental\\enable_iterative_imputer.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\experimental\\tests\\test_enable_hist_gradient_boosting.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\experimental\\tests\\test_enable_iterative_imputer.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\experimental\\tests\\test_enable_successive_halving.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\experimental\\tests\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\experimental\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\externals\\conftest.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\externals\\_arff.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\externals\\_lobpcg.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\externals\\_numpy_compiler_patch.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\externals\\_packaging\\version.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\externals\\_packaging\\_structures.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\externals\\_packaging\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\externals\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\feature_extraction\\image.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\feature_extraction\\setup.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\feature_extraction\\tests\\test_dict_vectorizer.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\feature_extraction\\tests\\test_feature_hasher.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\feature_extraction\\tests\\test_image.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\feature_extraction\\tests\\test_text.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\feature_extraction\\tests\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\feature_extraction\\text.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\feature_extraction\\_dict_vectorizer.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\feature_extraction\\_hash.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\feature_extraction\\_stop_words.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\feature_extraction\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\feature_selection\\tests\\test_base.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\feature_selection\\tests\\test_chi2.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\feature_selection\\tests\\test_feature_select.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\feature_selection\\tests\\test_from_model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\feature_selection\\tests\\test_mutual_info.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\feature_selection\\tests\\test_rfe.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\feature_selection\\tests\\test_sequential.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\feature_selection\\tests\\test_variance_threshold.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\feature_selection\\tests\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\feature_selection\\_base.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\feature_selection\\_from_model.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\feature_selection\\_mutual_info.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\feature_selection\\_rfe.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\feature_selection\\_sequential.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\feature_selection\\_univariate_selection.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\feature_selection\\_variance_threshold.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\feature_selection\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\gaussian_process\\kernels.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\gaussian_process\\tests\\test_gpc.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\gaussian_process\\tests\\test_gpr.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\gaussian_process\\tests\\test_kernels.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\gaussian_process\\tests\\_mini_sequence_kernel.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\gaussian_process\\tests\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\gaussian_process\\_gpc.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\gaussian_process\\_gpr.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\gaussian_process\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\impute\\tests\\test_base.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\impute\\tests\\test_common.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\impute\\tests\\test_impute.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\impute\\tests\\test_knn.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\impute\\tests\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\impute\\_base.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\impute\\_iterative.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\impute\\_knn.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\impute\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\inspection\\setup.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\inspection\\tests\\test_partial_dependence.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\inspection\\tests\\test_permutation_importance.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\inspection\\tests\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\inspection\\_partial_dependence.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\inspection\\_permutation_importance.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\inspection\\_plot\\decision_boundary.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\inspection\\_plot\\partial_dependence.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\inspection\\_plot\\tests\\test_boundary_decision_display.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\inspection\\_plot\\tests\\test_plot_partial_dependence.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\inspection\\_plot\\tests\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\inspection\\_plot\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\inspection\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\isotonic.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\kernel_approximation.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\kernel_ridge.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\linear_model\\setup.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\linear_model\\tests\\test_base.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\linear_model\\tests\\test_bayes.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\linear_model\\tests\\test_common.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\linear_model\\tests\\test_coordinate_descent.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\linear_model\\tests\\test_huber.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\linear_model\\tests\\test_least_angle.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\linear_model\\tests\\test_linear_loss.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\linear_model\\tests\\test_logistic.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\linear_model\\tests\\test_omp.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\linear_model\\tests\\test_passive_aggressive.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\linear_model\\tests\\test_perceptron.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\linear_model\\tests\\test_quantile.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\linear_model\\tests\\test_ransac.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\linear_model\\tests\\test_ridge.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\linear_model\\tests\\test_sag.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\linear_model\\tests\\test_sgd.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\linear_model\\tests\\test_sparse_coordinate_descent.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\linear_model\\tests\\test_theil_sen.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\linear_model\\tests\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\linear_model\\_base.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\linear_model\\_bayes.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\linear_model\\_coordinate_descent.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\linear_model\\_glm\\glm.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\linear_model\\_glm\\tests\\test_glm.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\linear_model\\_glm\\tests\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\linear_model\\_glm\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\linear_model\\_huber.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\linear_model\\_least_angle.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\linear_model\\_linear_loss.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\linear_model\\_logistic.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\linear_model\\_omp.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\linear_model\\_passive_aggressive.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\linear_model\\_perceptron.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\linear_model\\_quantile.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\linear_model\\_ransac.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\linear_model\\_ridge.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\linear_model\\_sag.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\linear_model\\_stochastic_gradient.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\linear_model\\_theil_sen.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\linear_model\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\manifold\\setup.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\manifold\\tests\\test_isomap.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\manifold\\tests\\test_locally_linear.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\manifold\\tests\\test_mds.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\manifold\\tests\\test_spectral_embedding.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\manifold\\tests\\test_t_sne.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\manifold\\tests\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\manifold\\_isomap.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\manifold\\_locally_linear.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\manifold\\_mds.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\manifold\\_spectral_embedding.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\manifold\\_t_sne.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\manifold\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\metrics\\cluster\\setup.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\metrics\\cluster\\tests\\test_bicluster.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\metrics\\cluster\\tests\\test_common.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\metrics\\cluster\\tests\\test_supervised.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\metrics\\cluster\\tests\\test_unsupervised.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\metrics\\cluster\\tests\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\metrics\\cluster\\_bicluster.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\metrics\\cluster\\_supervised.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\metrics\\cluster\\_unsupervised.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\metrics\\cluster\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\metrics\\pairwise.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\metrics\\setup.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\metrics\\tests\\test_classification.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\metrics\\tests\\test_common.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\metrics\\tests\\test_dist_metrics.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\metrics\\tests\\test_pairwise.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\metrics\\tests\\test_pairwise_distances_reduction.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\metrics\\tests\\test_ranking.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\metrics\\tests\\test_regression.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\metrics\\tests\\test_score_objects.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\metrics\\tests\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\metrics\\_base.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\metrics\\_classification.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\metrics\\_plot\\base.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\metrics\\_plot\\confusion_matrix.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\metrics\\_plot\\det_curve.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\metrics\\_plot\\precision_recall_curve.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\metrics\\_plot\\roc_curve.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\metrics\\_plot\\tests\\test_base.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\metrics\\_plot\\tests\\test_common_curve_display.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\metrics\\_plot\\tests\\test_confusion_matrix_display.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\metrics\\_plot\\tests\\test_det_curve_display.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\metrics\\_plot\\tests\\test_plot_confusion_matrix.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\metrics\\_plot\\tests\\test_plot_curve_common.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\metrics\\_plot\\tests\\test_plot_det_curve.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\metrics\\_plot\\tests\\test_plot_precision_recall.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\metrics\\_plot\\tests\\test_plot_roc_curve.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\metrics\\_plot\\tests\\test_precision_recall_display.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\metrics\\_plot\\tests\\test_roc_curve_display.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\metrics\\_plot\\tests\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\metrics\\_plot\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\metrics\\_ranking.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\metrics\\_regression.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\metrics\\_scorer.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\metrics\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\mixture\\tests\\test_bayesian_mixture.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\mixture\\tests\\test_gaussian_mixture.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\mixture\\tests\\test_mixture.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\mixture\\tests\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\mixture\\_base.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\mixture\\_bayesian_mixture.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\mixture\\_gaussian_mixture.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\mixture\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\model_selection\\tests\\common.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\model_selection\\tests\\test_search.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\model_selection\\tests\\test_split.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\model_selection\\tests\\test_successive_halving.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\model_selection\\tests\\test_validation.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\model_selection\\tests\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\model_selection\\_search.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\model_selection\\_search_successive_halving.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\model_selection\\_split.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\model_selection\\_validation.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Joseph\\PycharmProjects\\nlp2022\\venv3.10\\Lib\\site-packages\\sklearn\\model_selection\\__init__.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-679-301
